@@ -1,8 +1,10 @@
 # 风水布局自查 · guanfu-fengshui-buju
 
-> 把民间流传的住宅布局讲究整理成可对照清单——玄关/客厅/卧室/厨房/书房五区逐条自查，每条都是「常见布局→传统观点→软性调整」，调整全部是布置层面不动结构；穿堂煞/门冲/横梁压顶/镜对床/炉灶对水槽五条传统说法科普，破除「布局不好就不顺」「
+> 把民间流传的住宅布局讲究整理成可对照清单——玄关/客厅/卧室/厨房/书房五区逐条自查，每条都是「常见布局→传统观点→软性调整」，调整全部是布置层面不动结构；穿堂煞/门冲/横梁压顶/镜对床/炉灶对水槽五条传统说法科普，……
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
+
+**English**: Residential feng-shui self-check list — five zones (entryway / living room / bedroom / kitchen / study) reviewed item by item in the form 'common layout → traditional view → soft adjustment'; plus five classic sayings explained as folklore, debunking superstition without mocking tradition.
 
 ---
 
@@ -19,7 +21,7 @@
 3. 零依赖、纯知识方法论包——不联网、不调付费接口。
 
 ```bash
-git clone https://github.com/guanfujushi/guanfu-fengshui-buju.git
+git clone https://github.com/guanfujushi/guanfu-fengshui-buju.git && cp -r guanfu-fengshui-buju ~/.skills/   # 一键下载并装进 skills 目录
 ```
 
 ## 目录结构
@@ -33,6 +35,8 @@ guanfu-fengshui-buju/
 
 ## 联系与合作
 
+- 🤝 **商务合作**：`13148728713`
+- 💬 **微信号**：`guanfujs`
 - 📱 **技能市场**：在技能市场搜索「**观复居士**」，可以看到本系列全部技能
 - 📰 **公众号**：观复的国学笔记（国学 · 命理文化 · AI 内容工程系列更新）
 
