@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-fengshui-buju)
+
 **English**: Residential feng-shui self-check list — five zones (entryway / living room / bedroom / kitchen / study) reviewed item by item in the form 'common layout → traditional view → soft adjustment'; plus five classic sayings explained as folklore, debunking superstition without mocking tradition.
 
 ---
