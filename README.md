@@ -1,5 +1,7 @@
 # 风水布局自查 · guanfu-fengshui-buju
 
+> **English** — Feng Shui layout self-check skill for AI agents. Zone-by-zone checklists for five home areas (entry / living room / bedroom / kitchen / study): each item pairs a traditional saying with a soft, non-structural adjustment, plus five misconception clarifications. No fear-mongering, no verdicts, no structural changes. Free, offline, zero dependencies.
+> **Install** — clone this repo into your agent's skills directory (e.g. `~/.skills/`). Full series catalog: [guanfujushi](https://github.com/guanfujushi/guanfujushi) · SkillHub marketplace: search **观复居士**.
 > 把民间流传的住宅布局讲究整理成可对照清单——玄关/客厅/卧室/厨房/书房五区逐条自查，每条都是「常见布局→传统观点→软性调整」，调整全部是布置层面不动结构；穿堂煞/门冲/横梁压顶/镜对床/炉灶对水槽五条传统说法科普，……
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
